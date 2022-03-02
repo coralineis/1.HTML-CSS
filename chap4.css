@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 50px;
+  background-color: red;
+}
+
+.main-top {
+  height: 500px;
+  background-color: orange;
+}
+
+.main-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.left {
+  width: 230px;
+  height: 1400px;
+  background-color: aquamarine;
+}
+
+.center {
+  width: 500px;
+  height: 1400px;
+  background-color: green;
+}
+
+.right {
+  width: 230px;
+  height: 1400px;
+  background-color: aquamarine;
+}
+
+footer {
+  height: 100px;
+  background-color: blue;
+}
