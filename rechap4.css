@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-top {
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+
+.header-bottom {
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+.main {
+  width: 960px;
+  height: 1400px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.main-left {
+  width: 230px;
+  background-color: limegreen;
+}
+
+.main-center {
+  width: 500px;
+  background-color: green;
+}
+
+.main-right {
+  width: 230px;
+  background-color: limegreen;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: blue;
+}
